@@ -1,0 +1,1 @@
+# sevenchat-stickers
