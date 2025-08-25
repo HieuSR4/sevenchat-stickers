@@ -4,24 +4,19 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-25T08:51:09.034Z",
-  "updatedAt": "2025-08-25T08:51:09.059Z",
+  "createdAt": "2025-08-25T08:59:07.353Z",
+  "updatedAt": "2025-08-25T08:59:07.358Z",
   "packs": [
     {
-<<<<<<< HEAD
       "id": "Aniaml",
-      "name": "KSlEMBnQ4LoerStalSwv Pack",
-=======
-      "id": "Quby",
-      "name": "Quby Pack",
->>>>>>> 92d3f83ed1ccfabaf1a166f4fc37f3c080220c86
-      "description": "Sticker pack crawled from SigStick",
+      "name": "Aniaml Pack",
+      "description": "Collection of aniaml stickers",
       "author": "SevenChat Team",
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-08-25T08:51:09.048Z",
-      "updatedAt": "2025-08-25T08:51:09.048Z",
+      "createdAt": "2025-08-25T08:59:07.356Z",
+      "updatedAt": "2025-08-25T08:59:07.356Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -586,8 +581,8 @@
       ],
       "totalStickers": 35,
       "totalSize": 6496516,
-      "source": "SigStick",
-      "crawledAt": "2025-08-25T08:49:46.629Z"
+      "source": null,
+      "crawledAt": null
     },
     {
       "id": "pig",
@@ -597,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-25T08:51:09.052Z",
-      "updatedAt": "2025-08-25T08:51:09.052Z",
+      "createdAt": "2025-08-25T08:59:07.357Z",
+      "updatedAt": "2025-08-25T08:59:07.357Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -688,14 +683,14 @@
     },
     {
       "id": "Quby",
-      "name": "1Dya2eQtWq0TeUtPi2D7 Pack",
-      "description": "Sticker pack crawled from SigStick",
+      "name": "Quby Pack",
+      "description": "Collection of quby stickers",
       "author": "SevenChat Team",
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-08-25T08:51:09.057Z",
-      "updatedAt": "2025-08-25T08:51:09.057Z",
+      "createdAt": "2025-08-25T08:59:07.358Z",
+      "updatedAt": "2025-08-25T08:59:07.358Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
@@ -1340,8 +1335,8 @@
       ],
       "totalStickers": 40,
       "totalSize": 1717470,
-      "source": "SigStick",
-      "crawledAt": "2025-08-25T08:30:23.952Z"
+      "source": null,
+      "crawledAt": null
     }
   ]
 }
