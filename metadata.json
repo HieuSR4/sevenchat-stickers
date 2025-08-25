@@ -4,26 +4,19 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-25T08:59:07.353Z",
-  "updatedAt": "2025-08-25T08:59:07.358Z",
+  "createdAt": "2025-08-25T09:00:06.018Z",
+  "updatedAt": "2025-08-25T09:00:06.022Z",
   "packs": [
     {
       "id": "Aniaml",
-<<<<<<< HEAD
       "name": "Aniaml Pack",
       "description": "Collection of aniaml stickers",
-=======
-      "name": "KSlEMBnQ4LoerStalSwv Pack",
-      "id": "Quby",
-      "name": "Quby Pack",
-      "description": "Sticker pack crawled from SigStick",
->>>>>>> c034e52e6174956594ec080a7afb76b098b9c2e9
       "author": "SevenChat Team",
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-08-25T08:59:07.356Z",
-      "updatedAt": "2025-08-25T08:59:07.356Z",
+      "createdAt": "2025-08-25T09:00:06.020Z",
+      "updatedAt": "2025-08-25T09:00:06.020Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -599,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-25T08:59:07.357Z",
-      "updatedAt": "2025-08-25T08:59:07.357Z",
+      "createdAt": "2025-08-25T09:00:06.021Z",
+      "updatedAt": "2025-08-25T09:00:06.021Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -696,8 +689,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-08-25T08:59:07.358Z",
-      "updatedAt": "2025-08-25T08:59:07.358Z",
+      "createdAt": "2025-08-25T09:00:06.022Z",
+      "updatedAt": "2025-08-25T09:00:06.022Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
