@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-25T04:10:55.635Z",
-  "updatedAt": "2025-08-25T04:10:55.650Z",
+  "createdAt": "2025-08-25T04:21:20.094Z",
+  "updatedAt": "2025-08-25T04:21:20.101Z",
   "packs": [
     {
       "id": "pig",
@@ -15,9 +15,26 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-25T04:10:55.646Z",
-      "updatedAt": "2025-08-25T04:10:55.646Z",
+      "createdAt": "2025-08-25T04:21:20.100Z",
+      "updatedAt": "2025-08-25T04:21:20.100Z",
       "stickers": [
+        {
+          "id": "lắc đuýt",
+          "name": "LắC đUýT",
+          "url": "stickers/pig/lắc đuýt.gif",
+          "tags": [
+            "pig",
+            "lắc",
+            "đuýt",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "pig",
+          "size": 27412
+        },
         {
           "id": "pig-1",
           "name": "Pig 1",
@@ -49,8 +66,8 @@
           "size": 241711
         }
       ],
-      "totalStickers": 2,
-      "totalSize": 264168
+      "totalStickers": 3,
+      "totalSize": 291580
     }
   ]
 }
