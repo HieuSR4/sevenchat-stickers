@@ -8,13 +8,10 @@
   "updatedAt": "2025-08-25T08:51:09.059Z",
   "packs": [
     {
-<<<<<<< HEAD
       "id": "Aniaml",
       "name": "KSlEMBnQ4LoerStalSwv Pack",
-=======
       "id": "Quby",
       "name": "Quby Pack",
->>>>>>> 92d3f83ed1ccfabaf1a166f4fc37f3c080220c86
       "description": "Sticker pack crawled from SigStick",
       "author": "SevenChat Team",
       "version": "1.0.0",
