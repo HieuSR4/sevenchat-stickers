@@ -9,8 +9,15 @@
   "packs": [
     {
       "id": "Aniaml",
+<<<<<<< HEAD
       "name": "Aniaml Pack",
       "description": "Collection of aniaml stickers",
+=======
+      "name": "KSlEMBnQ4LoerStalSwv Pack",
+      "id": "Quby",
+      "name": "Quby Pack",
+      "description": "Sticker pack crawled from SigStick",
+>>>>>>> c034e52e6174956594ec080a7afb76b098b9c2e9
       "author": "SevenChat Team",
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
