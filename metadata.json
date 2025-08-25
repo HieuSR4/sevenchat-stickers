@@ -4,9 +4,626 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-25T07:49:05.763Z",
-  "updatedAt": "2025-08-25T07:49:05.770Z",
+  "createdAt": "2025-08-25T08:36:17.447Z",
+  "updatedAt": "2025-08-25T08:36:17.453Z",
   "packs": [
+    {
+      "id": "1Dya2eQtWq0TeUtPi2D7",
+      "name": "Quby Pack",
+      "description": "Sticker pack crawled from SigStick",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/1Dya2eQtWq0TeUtPi2D7.png",
+      "category": "general",
+      "createdAt": "2025-08-25T08:36:17.451Z",
+      "updatedAt": "2025-08-25T08:36:17.451Z",
+      "stickers": [
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-1",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-1.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 66552
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-10",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-10.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 29940
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-11",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-11.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 44968
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-12",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-12.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 74070
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-13",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-13.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 179522
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-14",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-14.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 50494
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-15",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-15.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 30824
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-16",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-16.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 16060
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-17",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-17.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 66678
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-18",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-18.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 22678
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-19",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-19.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 16822
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-2",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-2.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 274262
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-20",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-20.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 30426
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-21",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-21.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 55744
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-22",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-22.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 116486
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-23",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-23.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 16590
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-24",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-24.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 13164
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-25",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-25.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 29134
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-26",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-26.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 26842
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-27",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-27.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 38272
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-28",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-28.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 17110
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-29",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-29.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 21070
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-3",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-3.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 18870
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-30",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-30.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 34924
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-31",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-31.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 5500
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-32",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-32.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 7328
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-33",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-33.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 7172
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-34",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-34.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 32994
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-35",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-35.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 8658
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-36",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-36.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 9148
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-37",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-37.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 7358
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-38",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-38.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 33508
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-39",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-39.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 15368
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-4",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-4.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 15752
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-40",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-40.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 9728
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-5",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-5.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 160896
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-6",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-6.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 28022
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-7",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-7.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 24748
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-8",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-8.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 24316
+        },
+        {
+          "id": "1Dya2eQtWq0TeUtPi2D7-9",
+          "name": "",
+          "url": "stickers/1Dya2eQtWq0TeUtPi2D7/1Dya2eQtWq0TeUtPi2D7-9.webp",
+          "tags": [
+            "1Dya2eQtWq0TeUtPi2D7",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "1Dya2eQtWq0TeUtPi2D7",
+          "size": 35472
+        }
+      ],
+      "totalStickers": 40,
+      "totalSize": 1717470,
+      "source": "SigStick",
+      "crawledAt": "2025-08-25T08:30:23.952Z"
+    },
     {
       "id": "cat",
       "name": "Cat Pack",
@@ -15,8 +632,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/cat.png",
       "category": "general",
-      "createdAt": "2025-08-25T07:49:05.768Z",
-      "updatedAt": "2025-08-25T07:49:05.768Z",
+      "createdAt": "2025-08-25T08:36:17.452Z",
+      "updatedAt": "2025-08-25T08:36:17.452Z",
       "stickers": [
         {
           "id": "0-1.thumb128",
@@ -36,7 +653,9 @@
         }
       ],
       "totalStickers": 1,
-      "totalSize": 61296
+      "totalSize": 61296,
+      "source": null,
+      "crawledAt": null
     },
     {
       "id": "pig",
@@ -46,8 +665,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-25T07:49:05.770Z",
-      "updatedAt": "2025-08-25T07:49:05.770Z",
+      "createdAt": "2025-08-25T08:36:17.452Z",
+      "updatedAt": "2025-08-25T08:36:17.452Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -131,7 +750,9 @@
         }
       ],
       "totalStickers": 5,
-      "totalSize": 553993
+      "totalSize": 553993,
+      "source": null,
+      "crawledAt": null
     }
   ]
 }

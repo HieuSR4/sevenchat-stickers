@@ -12,7 +12,7 @@ const CONFIG = {
     stickersDir: './stickers',
     outputFile: './metadata.json',
     defaultCategory: 'general',
-    supportedFormats: ['.png', '.jpg', '.jpeg', '.svg', '.gif'],
+    supportedFormats: ['.png', '.jpg', '.jpeg', '.svg', '.gif', '.webp'],
     maxFileSize: 1024 * 1024, // 1MB
     thumbnailSize: 128
 };
@@ -35,6 +35,18 @@ function createMetadataTemplate() {
 function createStickerPack(packDir, packName) {
     const packPath = path.join(CONFIG.stickersDir, packDir);
     const files = fs.readdirSync(packPath);
+    
+    // Đọc pack-info.json nếu có
+    let packInfo = null;
+    const packInfoPath = path.join(packPath, 'pack-info.json');
+    if (fs.existsSync(packInfoPath)) {
+        try {
+            packInfo = JSON.parse(fs.readFileSync(packInfoPath, 'utf8'));
+            console.log(`📖 Đọc pack info: ${packInfo.name || packName}`);
+        } catch (error) {
+            console.warn(`⚠️  Không thể đọc pack-info.json: ${error.message}`);
+        }
+    }
     
     const stickers = [];
     let totalSize = 0;
@@ -66,19 +78,38 @@ function createStickerPack(packDir, packName) {
         }
     });
     
+    // Tạo tên hiển thị thông minh hơn
+    let displayName = packName;
+    
+    if (packName.length >= 20) {
+        // Nếu tên quá dài (như ID), tạo tên ngắn gọn và thân thiện hơn
+        if (packInfo && packInfo.source === 'SigStick') {
+            displayName = 'Quby'; // Tên thân thiện cho pack từ SigStick
+        } else {
+            displayName = `Pack ${packName.substring(0, 8)}...`;
+        }
+    } else if (packInfo && packInfo.name) {
+        // Sử dụng tên từ pack-info.json nếu có
+        displayName = packInfo.name.replace(' Pack', '');
+    } else {
+        displayName = packName.replace('-pack', '').replace(/[-_]/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    }
+    
     return {
         id: packName,
-        name: packName.replace('-pack', '').replace(/[-_]/g, ' ').replace(/\b\w/g, l => l.toUpperCase()) + ' Pack',
-        description: `Collection of ${packName.replace('-pack', '')} stickers`,
-        author: "SevenChat Team",
-        version: "1.0.0",
+        name: displayName + ' Pack',
+        description: packInfo ? packInfo.description : `Collection of ${displayName.toLowerCase()} stickers`,
+        author: packInfo && packInfo.author ? packInfo.author : "SevenChat Team",
+        version: packInfo && packInfo.version ? packInfo.version : "1.0.0",
         thumbnail: `thumbnails/${packName}.png`,
-        category: CONFIG.defaultCategory,
-        createdAt: new Date().toISOString(),
+        category: packInfo && packInfo.category ? packInfo.category : CONFIG.defaultCategory,
+        createdAt: packInfo && packInfo.createdAt ? packInfo.createdAt : new Date().toISOString(),
         updatedAt: new Date().toISOString(),
         stickers: stickers,
         totalStickers: stickers.length,
-        totalSize: totalSize
+        totalSize: totalSize,
+        source: packInfo && packInfo.source ? packInfo.source : null,
+        crawledAt: packInfo && packInfo.crawledAt ? packInfo.crawledAt : null
     };
 }
 
