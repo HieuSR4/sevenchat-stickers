@@ -4,9 +4,40 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-25T04:25:35.917Z",
-  "updatedAt": "2025-08-25T04:25:35.923Z",
+  "createdAt": "2025-08-25T06:47:14.013Z",
+  "updatedAt": "2025-08-25T06:47:14.026Z",
   "packs": [
+    {
+      "id": "cat",
+      "name": "Cat Pack",
+      "description": "Collection of cat stickers",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/cat.png",
+      "category": "general",
+      "createdAt": "2025-08-25T06:47:14.022Z",
+      "updatedAt": "2025-08-25T06:47:14.022Z",
+      "stickers": [
+        {
+          "id": "0-1.thumb128",
+          "name": "",
+          "url": "stickers/cat/0-1.thumb128.png",
+          "tags": [
+            "cat",
+            "1.thumb128",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "cat",
+          "size": 61296
+        }
+      ],
+      "totalStickers": 1,
+      "totalSize": 61296
+    },
     {
       "id": "pig",
       "name": "Pig Pack",
@@ -15,8 +46,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-25T04:25:35.923Z",
-      "updatedAt": "2025-08-25T04:25:35.923Z",
+      "createdAt": "2025-08-25T06:47:14.025Z",
+      "updatedAt": "2025-08-25T06:47:14.025Z",
       "stickers": [
         {
           "id": "bắn",
