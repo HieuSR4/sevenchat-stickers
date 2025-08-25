@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-25T04:21:20.094Z",
-  "updatedAt": "2025-08-25T04:21:20.101Z",
+  "createdAt": "2025-08-25T04:25:35.917Z",
+  "updatedAt": "2025-08-25T04:25:35.923Z",
   "packs": [
     {
       "id": "pig",
@@ -15,12 +15,28 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-25T04:21:20.100Z",
-      "updatedAt": "2025-08-25T04:21:20.100Z",
+      "createdAt": "2025-08-25T04:25:35.923Z",
+      "updatedAt": "2025-08-25T04:25:35.923Z",
       "stickers": [
         {
+          "id": "bắn",
+          "name": "",
+          "url": "stickers/pig/bắn.gif",
+          "tags": [
+            "pig",
+            "bắn",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "pig",
+          "size": 122170
+        },
+        {
           "id": "lắc đuýt",
-          "name": "LắC đUýT",
+          "name": "",
           "url": "stickers/pig/lắc đuýt.gif",
           "tags": [
             "pig",
@@ -37,7 +53,7 @@
         },
         {
           "id": "pig-1",
-          "name": "Pig 1",
+          "name": "",
           "url": "stickers/pig/pig-1.gif",
           "tags": [
             "pig",
@@ -52,7 +68,7 @@
         },
         {
           "id": "pig-2",
-          "name": "Pig 2",
+          "name": "",
           "url": "stickers/pig/pig-2.gif",
           "tags": [
             "pig",
@@ -66,8 +82,8 @@
           "size": 241711
         }
       ],
-      "totalStickers": 3,
-      "totalSize": 291580
+      "totalStickers": 4,
+      "totalSize": 413750
     }
   ]
 }
