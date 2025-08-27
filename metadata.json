@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-27T03:11:05.608Z",
-  "updatedAt": "2025-08-27T03:11:05.632Z",
+  "createdAt": "2025-08-27T03:25:31.014Z",
+  "updatedAt": "2025-08-27T03:25:31.026Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:11:05.618Z",
-      "updatedAt": "2025-08-27T03:11:05.618Z",
+      "createdAt": "2025-08-27T03:25:31.017Z",
+      "updatedAt": "2025-08-27T03:25:31.017Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:11:05.621Z",
-      "updatedAt": "2025-08-27T03:11:05.621Z",
+      "createdAt": "2025-08-27T03:25:31.020Z",
+      "updatedAt": "2025-08-27T03:25:31.020Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1658,15 +1658,400 @@
       "crawledAt": "2025-08-26T00:58:43.822Z"
     },
     {
+      "id": "Frog",
+      "name": "VODLUpRpYHmL9vwl8VcJ Pack",
+      "description": "Sticker pack crawled from SigStick",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/Frog.png",
+      "category": "general",
+      "createdAt": "2025-08-27T03:25:31.021Z",
+      "updatedAt": "2025-08-27T03:25:31.021Z",
+      "stickers": [
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-0",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-0.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 36976
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-1",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-1.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 35412
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-10",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-10.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 39968
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-11",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-11.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 43082
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-12",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-12.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 39548
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-13",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-13.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 34164
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-14",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-14.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 35226
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-15",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-15.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 36818
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-16",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-16.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 35688
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-17",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-17.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 25032
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-18",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-18.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 42762
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-19",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-19.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 37156
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-2",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-2.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 38912
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-20",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-20.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 32276
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-21",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-21.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 37710
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-22",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-22.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 34518
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-3",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-3.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 35096
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-4",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-4.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 38004
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-5",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-5.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 35120
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-6",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-6.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 36988
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-7",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-7.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 31256
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-8",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-8.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 45334
+        },
+        {
+          "id": "VODLUpRpYHmL9vwl8VcJ-9",
+          "name": "",
+          "url": "stickers/Frog/VODLUpRpYHmL9vwl8VcJ-9.png",
+          "tags": [
+            "Frog",
+            "vodluprpyhml9vwl8vcj",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Frog",
+          "size": 34882
+        }
+      ],
+      "totalStickers": 23,
+      "totalSize": 841928,
+      "source": "SigStick",
+      "crawledAt": "2025-08-27T03:23:08.920Z"
+    },
+    {
       "id": "Mèo",
-      "name": "Mèo Pack",
+      "name": "MèO Pack",
       "description": "Collection of mèo stickers",
       "author": "SevenChat Team",
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:11:05.622Z",
-      "updatedAt": "2025-08-27T03:11:05.622Z",
+      "createdAt": "2025-08-27T03:25:31.024Z",
+      "updatedAt": "2025-08-27T03:25:31.024Z",
       "stickers": [
         {
           "id": "webpc (1)",
@@ -2157,8 +2542,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:11:05.627Z",
-      "updatedAt": "2025-08-27T03:11:05.627Z",
+      "createdAt": "2025-08-27T03:25:31.025Z",
+      "updatedAt": "2025-08-27T03:25:31.025Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -2254,8 +2639,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:11:05.631Z",
-      "updatedAt": "2025-08-27T03:11:05.631Z",
+      "createdAt": "2025-08-27T03:25:31.026Z",
+      "updatedAt": "2025-08-27T03:25:31.026Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
