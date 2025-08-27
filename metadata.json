@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-26T01:02:04.016Z",
-  "updatedAt": "2025-08-26T01:02:04.030Z",
+  "createdAt": "2025-08-27T03:11:05.608Z",
+  "updatedAt": "2025-08-27T03:11:05.632Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-08-26T01:02:04.021Z",
-      "updatedAt": "2025-08-26T01:02:04.021Z",
+      "createdAt": "2025-08-27T03:11:05.618Z",
+      "updatedAt": "2025-08-27T03:11:05.618Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-08-26T01:02:04.024Z",
-      "updatedAt": "2025-08-26T01:02:04.024Z",
+      "createdAt": "2025-08-27T03:11:05.621Z",
+      "updatedAt": "2025-08-27T03:11:05.621Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1658,6 +1658,498 @@
       "crawledAt": "2025-08-26T00:58:43.822Z"
     },
     {
+      "id": "Mèo",
+      "name": "MèO Pack",
+      "description": "Collection of mèo stickers",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/Mèo.png",
+      "category": "general",
+      "createdAt": "2025-08-27T03:11:05.622Z",
+      "updatedAt": "2025-08-27T03:11:05.622Z",
+      "stickers": [
+        {
+          "id": "webpc (1)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (1).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(1)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10437
+        },
+        {
+          "id": "webpc (10)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (10).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(10)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9139
+        },
+        {
+          "id": "webpc (11)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (11).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(11)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 8262
+        },
+        {
+          "id": "webpc (12)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (12).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(12)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9800
+        },
+        {
+          "id": "webpc (13)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (13).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(13)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9723
+        },
+        {
+          "id": "webpc (14)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (14).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(14)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 11014
+        },
+        {
+          "id": "webpc (15)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (15).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(15)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9508
+        },
+        {
+          "id": "webpc (16)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (16).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(16)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9991
+        },
+        {
+          "id": "webpc (17)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (17).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(17)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10105
+        },
+        {
+          "id": "webpc (18)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (18).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(18)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 11787
+        },
+        {
+          "id": "webpc (19)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (19).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(19)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 12446
+        },
+        {
+          "id": "webpc (2)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (2).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(2)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10445
+        },
+        {
+          "id": "webpc (20)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (20).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(20)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10897
+        },
+        {
+          "id": "webpc (21)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (21).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(21)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 8968
+        },
+        {
+          "id": "webpc (22)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (22).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(22)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 11222
+        },
+        {
+          "id": "webpc (23)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (23).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(23)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10025
+        },
+        {
+          "id": "webpc (24)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (24).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(24)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10159
+        },
+        {
+          "id": "webpc (25)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (25).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(25)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 8621
+        },
+        {
+          "id": "webpc (26)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (26).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(26)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9309
+        },
+        {
+          "id": "webpc (27)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (27).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(27)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 9844
+        },
+        {
+          "id": "webpc (3)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (3).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(3)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 11683
+        },
+        {
+          "id": "webpc (4)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (4).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(4)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 12505
+        },
+        {
+          "id": "webpc (5)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (5).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(5)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10810
+        },
+        {
+          "id": "webpc (6)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (6).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(6)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 11835
+        },
+        {
+          "id": "webpc (7)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (7).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(7)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 12361
+        },
+        {
+          "id": "webpc (8)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (8).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(8)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10186
+        },
+        {
+          "id": "webpc (9)",
+          "name": "",
+          "url": "stickers/Mèo/webpc (9).png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "(9)",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 10654
+        },
+        {
+          "id": "webpc",
+          "name": "",
+          "url": "stickers/Mèo/webpc.png",
+          "tags": [
+            "Mèo",
+            "webpc",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo",
+          "size": 11517
+        }
+      ],
+      "totalStickers": 28,
+      "totalSize": 293253,
+      "source": null,
+      "crawledAt": null
+    },
+    {
       "id": "pig",
       "name": "Pig Pack",
       "description": "Collection of pig stickers",
@@ -1665,8 +2157,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-26T01:02:04.027Z",
-      "updatedAt": "2025-08-26T01:02:04.027Z",
+      "createdAt": "2025-08-27T03:11:05.627Z",
+      "updatedAt": "2025-08-27T03:11:05.627Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -1762,8 +2254,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-08-26T01:02:04.030Z",
-      "updatedAt": "2025-08-26T01:02:04.030Z",
+      "createdAt": "2025-08-27T03:11:05.631Z",
+      "updatedAt": "2025-08-27T03:11:05.631Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
