@@ -13,8 +13,9 @@ const CONFIG = {
     outputFile: './metadata.json',
     defaultCategory: 'general',
     supportedFormats: ['.png', '.jpg', '.jpeg', '.svg', '.gif', '.webp'],
-    maxFileSize: 1024 * 1024, // 1MB
-    thumbnailSize: 128
+    maxFileSize: 10 * 1024 * 1024, // 10MB - tăng giới hạn để bao gồm tất cả stickers
+    thumbnailSize: 128,
+    skipSizeLimit: false // Tùy chọn để bỏ qua giới hạn kích thước
 };
 
 // Tạo template metadata cơ bản
@@ -57,7 +58,7 @@ function createStickerPack(packDir, packName) {
             const filePath = path.join(packPath, file);
             const stats = fs.statSync(filePath);
             
-            if (stats.size <= CONFIG.maxFileSize) {
+            if (CONFIG.skipSizeLimit || stats.size <= CONFIG.maxFileSize) {
                 const stickerId = path.parse(file).name;
                 const stickerName = stickerId.replace(/[-_]/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
                 
@@ -72,6 +73,10 @@ function createStickerPack(packDir, packName) {
                 });
                 
                 totalSize += stats.size;
+                
+                if (stats.size > CONFIG.maxFileSize) {
+                    console.log(`📏 File ${file} lớn (${(stats.size / 1024).toFixed(1)}KB) - đã bao gồm do skipSizeLimit`);
+                }
             } else {
                 console.warn(`⚠️  File ${file} quá lớn (${(stats.size / 1024).toFixed(1)}KB), bỏ qua`);
             }
@@ -286,6 +291,12 @@ function validateMetadata() {
 
 // Xử lý command line arguments
 const command = process.argv[2];
+const skipSizeLimit = process.argv.includes('--skip-size-limit') || process.argv.includes('--no-size-limit');
+
+if (skipSizeLimit) {
+    CONFIG.skipSizeLimit = true;
+    console.log('🔓 Bỏ qua giới hạn kích thước file');
+}
 
 switch (command) {
     case 'validate':
@@ -299,10 +310,14 @@ switch (command) {
 🎨 SevenChat Sticker Metadata Generator
 
 Usage:
-  node generate-metadata.js          # Generate metadata từ thư mục stickers
-  node generate-metadata.js validate # Validate metadata và kiểm tra files
-  node generate-metadata.js init     # Tạo cấu trúc thư mục mẫu
-  node generate-metadata.js help     # Hiển thị help
+  node generate-metadata.js                    # Generate metadata từ thư mục stickers
+  node generate-metadata.js --skip-size-limit  # Bỏ qua giới hạn kích thước file
+  node generate-metadata.js validate           # Validate metadata và kiểm tra files
+  node generate-metadata.js init               # Tạo cấu trúc thư mục mẫu
+  node generate-metadata.js help               # Hiển thị help
+
+Options:
+  --skip-size-limit, --no-size-limit  Bỏ qua giới hạn kích thước file (mặc định: 10MB)
 
 Cấu trúc thư mục:
   stickers/
