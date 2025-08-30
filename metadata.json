@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-27T03:25:31.014Z",
-  "updatedAt": "2025-08-27T03:25:31.026Z",
+  "createdAt": "2025-08-30T03:48:54.564Z",
+  "updatedAt": "2025-08-30T03:48:54.598Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:25:31.017Z",
-      "updatedAt": "2025-08-27T03:25:31.017Z",
+      "createdAt": "2025-08-30T03:48:54.573Z",
+      "updatedAt": "2025-08-30T03:48:54.573Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:25:31.020Z",
-      "updatedAt": "2025-08-27T03:25:31.020Z",
+      "createdAt": "2025-08-30T03:48:54.580Z",
+      "updatedAt": "2025-08-30T03:48:54.580Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1665,8 +1665,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Frog.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:25:31.021Z",
-      "updatedAt": "2025-08-27T03:25:31.021Z",
+      "createdAt": "2025-08-30T03:48:54.582Z",
+      "updatedAt": "2025-08-30T03:48:54.582Z",
       "stickers": [
         {
           "id": "VODLUpRpYHmL9vwl8VcJ-0",
@@ -2050,8 +2050,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:25:31.024Z",
-      "updatedAt": "2025-08-27T03:25:31.024Z",
+      "createdAt": "2025-08-30T03:48:54.585Z",
+      "updatedAt": "2025-08-30T03:48:54.585Z",
       "stickers": [
         {
           "id": "webpc (1)",
@@ -2535,6 +2535,119 @@
       "crawledAt": null
     },
     {
+      "id": "Mèo1",
+      "name": "1qI2dUmv0XQGHScRRLqO Pack",
+      "description": "Sticker pack crawled from SigStick",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/Mèo1.png",
+      "category": "general",
+      "createdAt": "2025-08-30T03:48:54.589Z",
+      "updatedAt": "2025-08-30T03:48:54.589Z",
+      "stickers": [
+        {
+          "id": "1qI2dUmv0XQGHScRRLqO-0",
+          "name": "",
+          "url": "stickers/Mèo1/1qI2dUmv0XQGHScRRLqO-0.png",
+          "tags": [
+            "Mèo1",
+            "1qi2dumv0xqghscrrlqo",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo1",
+          "size": 298660
+        },
+        {
+          "id": "1qI2dUmv0XQGHScRRLqO-1",
+          "name": "",
+          "url": "stickers/Mèo1/1qI2dUmv0XQGHScRRLqO-1.png",
+          "tags": [
+            "Mèo1",
+            "1qi2dumv0xqghscrrlqo",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo1",
+          "size": 633985
+        },
+        {
+          "id": "1qI2dUmv0XQGHScRRLqO-18",
+          "name": "",
+          "url": "stickers/Mèo1/1qI2dUmv0XQGHScRRLqO-18.png",
+          "tags": [
+            "Mèo1",
+            "1qi2dumv0xqghscrrlqo",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo1",
+          "size": 779873
+        },
+        {
+          "id": "1qI2dUmv0XQGHScRRLqO-4",
+          "name": "",
+          "url": "stickers/Mèo1/1qI2dUmv0XQGHScRRLqO-4.png",
+          "tags": [
+            "Mèo1",
+            "1qi2dumv0xqghscrrlqo",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo1",
+          "size": 94818
+        },
+        {
+          "id": "1qI2dUmv0XQGHScRRLqO-7",
+          "name": "",
+          "url": "stickers/Mèo1/1qI2dUmv0XQGHScRRLqO-7.png",
+          "tags": [
+            "Mèo1",
+            "1qi2dumv0xqghscrrlqo",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo1",
+          "size": 238043
+        },
+        {
+          "id": "1qI2dUmv0XQGHScRRLqO-8",
+          "name": "",
+          "url": "stickers/Mèo1/1qI2dUmv0XQGHScRRLqO-8.png",
+          "tags": [
+            "Mèo1",
+            "1qi2dumv0xqghscrrlqo",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Mèo1",
+          "size": 150887
+        }
+      ],
+      "totalStickers": 6,
+      "totalSize": 2196266,
+      "source": "SigStick",
+      "crawledAt": "2025-08-30T03:46:47.366Z"
+    },
+    {
       "id": "pig",
       "name": "Pig Pack",
       "description": "Collection of pig stickers",
@@ -2542,8 +2655,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:25:31.025Z",
-      "updatedAt": "2025-08-27T03:25:31.025Z",
+      "createdAt": "2025-08-30T03:48:54.594Z",
+      "updatedAt": "2025-08-30T03:48:54.594Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -2639,8 +2752,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-08-27T03:25:31.026Z",
-      "updatedAt": "2025-08-27T03:25:31.026Z",
+      "createdAt": "2025-08-30T03:48:54.598Z",
+      "updatedAt": "2025-08-30T03:48:54.598Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
