@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-08-30T04:02:09.550Z",
-  "updatedAt": "2025-08-30T04:02:09.573Z",
+  "createdAt": "2025-09-05T09:00:35.104Z",
+  "updatedAt": "2025-09-05T09:00:35.123Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.553Z",
-      "updatedAt": "2025-08-30T04:02:09.553Z",
+      "createdAt": "2025-09-05T09:00:35.108Z",
+      "updatedAt": "2025-09-05T09:00:35.108Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.560Z",
-      "updatedAt": "2025-08-30T04:02:09.560Z",
+      "createdAt": "2025-09-05T09:00:35.112Z",
+      "updatedAt": "2025-09-05T09:00:35.112Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1665,8 +1665,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Frog.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.563Z",
-      "updatedAt": "2025-08-30T04:02:09.563Z",
+      "createdAt": "2025-09-05T09:00:35.114Z",
+      "updatedAt": "2025-09-05T09:00:35.114Z",
       "stickers": [
         {
           "id": "VODLUpRpYHmL9vwl8VcJ-0",
@@ -2050,8 +2050,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.567Z",
-      "updatedAt": "2025-08-30T04:02:09.567Z",
+      "createdAt": "2025-09-05T09:00:35.116Z",
+      "updatedAt": "2025-09-05T09:00:35.116Z",
       "stickers": [
         {
           "id": "webpc (1)",
@@ -2542,8 +2542,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo1.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.569Z",
-      "updatedAt": "2025-08-30T04:02:09.569Z",
+      "createdAt": "2025-09-05T09:00:35.118Z",
+      "updatedAt": "2025-09-05T09:00:35.118Z",
       "stickers": [
         {
           "id": "1qI2dUmv0XQGHScRRLqO-0",
@@ -2879,8 +2879,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.570Z",
-      "updatedAt": "2025-08-30T04:02:09.570Z",
+      "createdAt": "2025-09-05T09:00:35.118Z",
+      "updatedAt": "2025-09-05T09:00:35.118Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -2976,8 +2976,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-08-30T04:02:09.572Z",
-      "updatedAt": "2025-08-30T04:02:09.572Z",
+      "createdAt": "2025-09-05T09:00:35.120Z",
+      "updatedAt": "2025-09-05T09:00:35.120Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
@@ -3624,6 +3624,407 @@
       "totalSize": 1717470,
       "source": null,
       "crawledAt": null
+    },
+    {
+      "id": "Rabbit",
+      "name": "Rabbit Pack",
+      "description": "Sticker pack crawled from SigStick",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/Rabbit.png",
+      "category": "general",
+      "createdAt": "2025-09-05T09:00:35.121Z",
+      "updatedAt": "2025-09-05T09:00:35.121Z",
+      "stickers": [
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-0",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-0.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 298112
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-1",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-1.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 185840
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-10",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-10.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 229725
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-11",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-11.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 89535
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-12",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-12.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 222031
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-13",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-13.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 166595
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-14",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-14.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 267075
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-15",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-15.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 162423
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-16",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-16.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 195167
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-17",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-17.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 161644
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-18",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-18.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 201869
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-19",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-19.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 267546
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-2",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-2.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 164568
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-20",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-20.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 201284
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-21",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-21.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 170853
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-22",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-22.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 269064
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-23",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-23.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 210785
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-3",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-3.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 112030
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-4",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-4.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 169429
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-5",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-5.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 109589
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-6",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-6.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 86938
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-7",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-7.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 157183
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-8",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-8.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 143410
+        },
+        {
+          "id": "rqIzRfDnJDM4C0IAaRWA-9",
+          "name": "",
+          "url": "stickers/Rabbit/rqIzRfDnJDM4C0IAaRWA-9.png",
+          "tags": [
+            "Rabbit",
+            "rqizrfdnjdm4c0iaarwa",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Rabbit",
+          "size": 197121
+        }
+      ],
+      "totalStickers": 24,
+      "totalSize": 4439816,
+      "source": "SigStick",
+      "crawledAt": "2025-09-05T08:59:51.152Z"
     }
   ]
 }
