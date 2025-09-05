@@ -1,0 +1,13 @@
+{
+  "name": "Nuda Pack",
+  "id": "Nuda",
+  "description": "Sticker pack crawled from SigStick",
+  "source": "SigStick",
+  "crawledAt": "2025-09-05T09:06:30.827Z",
+  "stickerCount": 21,
+  "category": "general",
+  "formats": {
+    "png": 21
+  },
+  "hasAnimated": false
+}

@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-09-05T09:00:35.104Z",
-  "updatedAt": "2025-09-05T09:00:35.123Z",
+  "createdAt": "2025-09-05T09:07:24.291Z",
+  "updatedAt": "2025-09-05T09:07:24.316Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.108Z",
-      "updatedAt": "2025-09-05T09:00:35.108Z",
+      "createdAt": "2025-09-05T09:07:24.294Z",
+      "updatedAt": "2025-09-05T09:07:24.294Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.112Z",
-      "updatedAt": "2025-09-05T09:00:35.112Z",
+      "createdAt": "2025-09-05T09:07:24.296Z",
+      "updatedAt": "2025-09-05T09:07:24.296Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1665,8 +1665,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Frog.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.114Z",
-      "updatedAt": "2025-09-05T09:00:35.114Z",
+      "createdAt": "2025-09-05T09:07:24.298Z",
+      "updatedAt": "2025-09-05T09:07:24.298Z",
       "stickers": [
         {
           "id": "VODLUpRpYHmL9vwl8VcJ-0",
@@ -2050,8 +2050,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.116Z",
-      "updatedAt": "2025-09-05T09:00:35.116Z",
+      "createdAt": "2025-09-05T09:07:24.301Z",
+      "updatedAt": "2025-09-05T09:07:24.301Z",
       "stickers": [
         {
           "id": "webpc (1)",
@@ -2542,8 +2542,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo1.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.118Z",
-      "updatedAt": "2025-09-05T09:00:35.118Z",
+      "createdAt": "2025-09-05T09:07:24.303Z",
+      "updatedAt": "2025-09-05T09:07:24.303Z",
       "stickers": [
         {
           "id": "1qI2dUmv0XQGHScRRLqO-0",
@@ -2872,6 +2872,359 @@
       "crawledAt": "2025-08-30T03:46:47.366Z"
     },
     {
+      "id": "Nuda",
+      "name": "Nuda Pack",
+      "description": "Sticker pack crawled from SigStick",
+      "author": "SevenChat Team",
+      "version": "1.0.0",
+      "thumbnail": "thumbnails/Nuda.png",
+      "category": "general",
+      "createdAt": "2025-09-05T09:07:24.304Z",
+      "updatedAt": "2025-09-05T09:07:24.304Z",
+      "stickers": [
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-0",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-0.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 445032
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-1",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-1.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 811972
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-10",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-10.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 561056
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-11",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-11.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 211277
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-12",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-12.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 109880
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-13",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-13.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 177101
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-14",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-14.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 115193
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-15",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-15.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 664617
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-16",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-16.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 448501
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-17",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-17.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 459189
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-18",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-18.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 486948
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-19",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-19.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 106931
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-2",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-2.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 114630
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-20",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-20.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 124996
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-3",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-3.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 592835
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-4",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-4.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 250079
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-5",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-5.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 577621
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-6",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-6.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 229445
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-7",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-7.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 486649
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-8",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-8.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 58909
+        },
+        {
+          "id": "BxlMEWNBTCfCnrx0J4L3-9",
+          "name": "",
+          "url": "stickers/Nuda/BxlMEWNBTCfCnrx0J4L3-9.png",
+          "tags": [
+            "Nuda",
+            "bxlmewnbtcfcnrx0j4l3",
+            "sticker",
+            "emoji",
+            "cute",
+            "fun"
+          ],
+          "category": "general",
+          "pack": "Nuda",
+          "size": 163629
+        }
+      ],
+      "totalStickers": 21,
+      "totalSize": 7196490,
+      "source": "SigStick",
+      "crawledAt": "2025-09-05T09:06:30.827Z"
+    },
+    {
       "id": "pig",
       "name": "Pig Pack",
       "description": "Collection of pig stickers",
@@ -2879,8 +3232,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.118Z",
-      "updatedAt": "2025-09-05T09:00:35.118Z",
+      "createdAt": "2025-09-05T09:07:24.309Z",
+      "updatedAt": "2025-09-05T09:07:24.309Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -2976,8 +3329,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.120Z",
-      "updatedAt": "2025-09-05T09:00:35.120Z",
+      "createdAt": "2025-09-05T09:07:24.313Z",
+      "updatedAt": "2025-09-05T09:07:24.313Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
@@ -3633,8 +3986,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Rabbit.png",
       "category": "general",
-      "createdAt": "2025-09-05T09:00:35.121Z",
-      "updatedAt": "2025-09-05T09:00:35.121Z",
+      "createdAt": "2025-09-05T09:07:24.315Z",
+      "updatedAt": "2025-09-05T09:07:24.315Z",
       "stickers": [
         {
           "id": "rqIzRfDnJDM4C0IAaRWA-0",
