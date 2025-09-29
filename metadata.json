@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-09-29T03:11:02.544Z",
-  "updatedAt": "2025-09-29T03:11:02.670Z",
+  "createdAt": "2025-09-29T03:14:24.206Z",
+  "updatedAt": "2025-09-29T03:14:24.223Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.556Z",
-      "updatedAt": "2025-09-29T03:11:02.556Z",
+      "createdAt": "2025-09-29T03:14:24.209Z",
+      "updatedAt": "2025-09-29T03:14:24.209Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.581Z",
-      "updatedAt": "2025-09-29T03:11:02.581Z",
+      "createdAt": "2025-09-29T03:14:24.212Z",
+      "updatedAt": "2025-09-29T03:14:24.212Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1665,8 +1665,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Frog.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.600Z",
-      "updatedAt": "2025-09-29T03:11:02.600Z",
+      "createdAt": "2025-09-29T03:14:24.215Z",
+      "updatedAt": "2025-09-29T03:14:24.215Z",
       "stickers": [
         {
           "id": "VODLUpRpYHmL9vwl8VcJ-0",
@@ -2050,8 +2050,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.603Z",
-      "updatedAt": "2025-09-29T03:11:02.603Z",
+      "createdAt": "2025-09-29T03:14:24.217Z",
+      "updatedAt": "2025-09-29T03:14:24.217Z",
       "stickers": [
         {
           "id": "webpc (1)",
@@ -2542,8 +2542,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo1.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.620Z",
-      "updatedAt": "2025-09-29T03:11:02.620Z",
+      "createdAt": "2025-09-29T03:14:24.218Z",
+      "updatedAt": "2025-09-29T03:14:24.218Z",
       "stickers": [
         {
           "id": "1qI2dUmv0XQGHScRRLqO-0",
@@ -2872,22 +2872,22 @@
       "crawledAt": "2025-08-30T03:46:47.366Z"
     },
     {
-      "id": "new sky",
+      "id": "New sky",
       "name": "New Sky Pack",
       "description": "Collection of new sky stickers",
       "author": "SevenChat Team",
       "version": "1.0.0",
-      "thumbnail": "thumbnails/new sky.png",
+      "thumbnail": "thumbnails/New sky.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.621Z",
-      "updatedAt": "2025-09-29T03:11:02.621Z",
+      "createdAt": "2025-09-29T03:14:24.219Z",
+      "updatedAt": "2025-09-29T03:14:24.219Z",
       "stickers": [
         {
           "id": "buon_ngu-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/buon_ngu-removebg-preview.png",
+          "url": "stickers/New sky/buon_ngu-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "buon",
             "ngu",
             "removebg",
@@ -2898,15 +2898,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 104847
         },
         {
           "id": "cuoi_vl-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/cuoi_vl-removebg-preview.png",
+          "url": "stickers/New sky/cuoi_vl-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "cuoi",
             "removebg",
             "preview",
@@ -2916,15 +2916,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 83324
         },
         {
           "id": "Dhkg-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Dhkg-removebg-preview.png",
+          "url": "stickers/New sky/Dhkg-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "dhkg",
             "removebg",
             "preview",
@@ -2934,15 +2934,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 93321
         },
         {
           "id": "Dot-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Dot-removebg-preview.png",
+          "url": "stickers/New sky/Dot-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "dot",
             "removebg",
             "preview",
@@ -2952,15 +2952,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 79189
         },
         {
           "id": "Dot_via-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Dot_via-removebg-preview.png",
+          "url": "stickers/New sky/Dot_via-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "dot",
             "via",
             "removebg",
@@ -2971,15 +2971,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 101248
         },
         {
           "id": "Fuk-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Fuk-removebg-preview.png",
+          "url": "stickers/New sky/Fuk-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "fuk",
             "removebg",
             "preview",
@@ -2989,15 +2989,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 91246
         },
         {
           "id": "het_tien-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/het_tien-removebg-preview.png",
+          "url": "stickers/New sky/het_tien-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "het",
             "tien",
             "removebg",
@@ -3008,15 +3008,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 99820
         },
         {
           "id": "Hu-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Hu-removebg-preview.png",
+          "url": "stickers/New sky/Hu-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "removebg",
             "preview",
             "sticker",
@@ -3025,15 +3025,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 91062
         },
         {
           "id": "Hẹ_hẹ-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Hẹ_hẹ-removebg-preview.png",
+          "url": "stickers/New sky/Hẹ_hẹ-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "removebg",
             "preview",
             "sticker",
@@ -3042,15 +3042,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 122037
         },
         {
           "id": "Khoc-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Khoc-removebg-preview.png",
+          "url": "stickers/New sky/Khoc-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "khoc",
             "removebg",
             "preview",
@@ -3060,15 +3060,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 93201
         },
         {
           "id": "Lay_troi-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Lay_troi-removebg-preview.png",
+          "url": "stickers/New sky/Lay_troi-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "lay",
             "troi",
             "removebg",
@@ -3079,15 +3079,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 96325
         },
         {
           "id": "nam_mo-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/nam_mo-removebg-preview.png",
+          "url": "stickers/New sky/nam_mo-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "nam",
             "removebg",
             "preview",
@@ -3097,15 +3097,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 86922
         },
         {
           "id": "ok-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/ok-removebg-preview.png",
+          "url": "stickers/New sky/ok-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "removebg",
             "preview",
             "sticker",
@@ -3114,15 +3114,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 105440
         },
         {
           "id": "So-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/So-removebg-preview.png",
+          "url": "stickers/New sky/So-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "removebg",
             "preview",
             "sticker",
@@ -3131,15 +3131,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 82563
         },
         {
           "id": "Sot_ruot-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Sot_ruot-removebg-preview.png",
+          "url": "stickers/New sky/Sot_ruot-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "sot",
             "ruot",
             "removebg",
@@ -3150,15 +3150,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 75476
         },
         {
           "id": "Stick-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Stick-removebg-preview.png",
+          "url": "stickers/New sky/Stick-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "stick",
             "removebg",
             "preview",
@@ -3168,15 +3168,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 119800
         },
         {
           "id": "Stop-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Stop-removebg-preview.png",
+          "url": "stickers/New sky/Stop-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "stop",
             "removebg",
             "preview",
@@ -3186,15 +3186,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 104904
         },
         {
           "id": "Tien_chi_la_con_so-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Tien_chi_la_con_so-removebg-preview.png",
+          "url": "stickers/New sky/Tien_chi_la_con_so-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "tien",
             "chi",
             "con",
@@ -3206,15 +3206,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 102256
         },
         {
           "id": "Uwhy-removebg-preview",
           "name": "",
-          "url": "stickers/new sky/Uwhy-removebg-preview.png",
+          "url": "stickers/New sky/Uwhy-removebg-preview.png",
           "tags": [
-            "new sky",
+            "New sky",
             "uwhy",
             "removebg",
             "preview",
@@ -3224,7 +3224,7 @@
             "fun"
           ],
           "category": "general",
-          "pack": "new sky",
+          "pack": "New sky",
           "size": 77187
         }
       ],
@@ -3241,8 +3241,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Nuda.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.647Z",
-      "updatedAt": "2025-09-29T03:11:02.648Z",
+      "createdAt": "2025-09-29T03:14:24.220Z",
+      "updatedAt": "2025-09-29T03:14:24.220Z",
       "stickers": [
         {
           "id": "BxlMEWNBTCfCnrx0J4L3-0",
@@ -3594,8 +3594,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.649Z",
-      "updatedAt": "2025-09-29T03:11:02.649Z",
+      "createdAt": "2025-09-29T03:14:24.221Z",
+      "updatedAt": "2025-09-29T03:14:24.221Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -3691,8 +3691,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.652Z",
-      "updatedAt": "2025-09-29T03:11:02.652Z",
+      "createdAt": "2025-09-29T03:14:24.222Z",
+      "updatedAt": "2025-09-29T03:14:24.222Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
@@ -4348,8 +4348,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Rabbit.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:11:02.670Z",
-      "updatedAt": "2025-09-29T03:11:02.670Z",
+      "createdAt": "2025-09-29T03:14:24.223Z",
+      "updatedAt": "2025-09-29T03:14:24.223Z",
       "stickers": [
         {
           "id": "rqIzRfDnJDM4C0IAaRWA-11",
